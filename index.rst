@@ -18,4 +18,4 @@
 贡献
 ------------
 
-项目放在 `GitHub <https://github.com/BWallet/bwallet-java-guide>`_ 欢迎查看!
+项目放在 `GitHub <https://github.com/BWallet/bwallet-plugin-guide-zh>`_ 欢迎查看!

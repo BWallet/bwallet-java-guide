@@ -43,9 +43,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-module_name = 'bwallet-java-guide'
+module_name = 'bwallet-plugin-guide-zh'
 project = u'BWallet插件安装指南'
-author = u'Bidingxing'
+author = u'币定行'
 copyright = u'2014, ' + author
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -177,7 +177,7 @@ pygments_style = 'sphinx'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'BWalletUserManual'
+htmlhelp_basename = 'BWalletPluginGuide'
 
 
 # -- Options for LaTeX output ---------------------------------------------
