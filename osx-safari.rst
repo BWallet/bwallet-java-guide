@@ -26,7 +26,7 @@
 在Mac OS X的Safari浏览器，Java插件默认没有访问文件、外部设备等权限，必须提高Java的运行权限才能使用BWallet设备，否则将会出现如下图的错误。
 
 .. image:: images/osx/safari/5.png
-如果为Java设置更高运行权限？
+如何为Java设置更高运行权限？
 
 .. image:: images/osx/safari/6.png
 .. image:: images/osx/safari/7.png
